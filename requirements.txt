@@ -2,11 +2,5 @@ opencv-python
 numpy
 matplotlib
 pillow
-tk
-
-
-
-
-
 
 #for installing via pip :  pip install -r requirements.txt
